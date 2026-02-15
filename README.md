@@ -14,10 +14,7 @@ A "Choose Your Own Adventure" style game where your choices determine your survi
 Mission: Find the hidden treasure by navigating through a series of dangerous obstacles.
 Gameplay Mechanics:
 Decision 1: Choose between moving Left (0) or Right (1).
-
 Decision 2: Decide to Swim (1) or Wait (0).
-
 Decision 3: Pick a colored door: Red, Blue, or Yellow.
-
 Winning Condition: Only the Yellow door leads to the treasure!
 Key Concept: Demonstrates nested conditional statements (if/elif/else) to create branching storylines.
